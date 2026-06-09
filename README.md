@@ -231,6 +231,8 @@ npx hardhat ignition deploy ignition/modules/OrganicFoodTraceability.ts --networ
 
 MIT
 
-## Contributing
+## Project Note
 
-Pull requests are welcome! For major changes, please open an issue first.
+This repository showcases an academic team project developed for organic food traceability using blockchain. The project focuses on improving transparency, reducing certification fraud, and maintaining tamper-proof supply chain records.
+
+
