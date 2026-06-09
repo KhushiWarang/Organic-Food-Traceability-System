@@ -1,6 +1,6 @@
 # Organic Food Traceability System
 
-A decentralized blockchain-based system for tracking organic food products through the entire supply chain, from farm to consumer.
+A blockchain-based traceability platform designed to combat organic food fraud, improve supply chain transparency, and enable consumers to verify the origin and journey of organic products from farm to consumer.
 
 ## Features
 
@@ -9,6 +9,10 @@ A decentralized blockchain-based system for tracking organic food products throu
 - **Product Management**: Add, update, and track products throughout their lifecycle
 - **Supply Chain Traceability**: Complete history of product ownership and transfers
 - **Transparent & Immutable**: All transactions recorded on the blockchain
+
+## Problem Addressed
+
+Organic food consumers often face challenges such as fraudulent labeling, lack of supply chain transparency, and difficulty verifying product authenticity. This project leverages blockchain technology to create an immutable and transparent record of product movement across the supply chain, enabling trust and traceability for all stakeholders.
 
 ## Tech Stack
 
