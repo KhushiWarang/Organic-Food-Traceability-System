@@ -235,4 +235,12 @@ MIT
 
 This repository showcases an academic team project developed for organic food traceability using blockchain. The project focuses on improving transparency, reducing certification fraud, and maintaining tamper-proof supply chain records.
 
+## Future Enhancements
+
+- QR code based product verification
+- Real-time blockchain transaction monitoring
+- Mobile application support
+- Integration with organic certification authorities
+- Supply chain analytics dashboard
+
 
